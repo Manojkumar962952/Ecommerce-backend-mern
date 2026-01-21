@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd /var/www/Ecommerce-backend-mern
+cd /var/www//var/www/backend
 rm -rf *
 rm -rf .git 
