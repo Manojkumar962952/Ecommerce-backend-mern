@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd /var/www//var/www/backend
+cd /var/www/backend
 rm -rf *
 rm -rf .git 
